@@ -4,13 +4,13 @@ export default function numerador(props){
        
        const contador = {
         margin:"10px",
-        width:"50px",
-        height:"50px",
+        width:"80px",
+        height:"80px",
         display:"flex",
         fontWeight:"bolder",
-        color:"pink",
+        color:"black",
         backgroundColor:"purple",
-        fontSize:"30px",
+        fontSize:"50px",
         flexDirection:"column",
         justifyContent:"center",
         borderRadius:"50%",
